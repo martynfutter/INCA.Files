@@ -26,7 +26,7 @@
                     <defaultValue>2038</defaultValue>
                     <currentValue>2038</currentValue>
                     <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>3.6116538407677904e-308</maximumValue>
+                    <maximumValue>3.6116538409749462e-308</maximumValue>
                 </Parameter>
                 <Parameter name="StartDate" type="date">
                     <currentValue>1/1/2014</currentValue>
@@ -38,915 +38,915 @@
                 <Parameter name="Initial direct runoff" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.01</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Initial soil water flow" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.10000000000000001</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Initial direct runoff nitrate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.10000000000000001</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Initial soil water nitrate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.10000000000000001</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Initial direct runoff ammonium" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.10000000000000001</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Initial soil water ammonium" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.10000000000000001</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Initial soil water DON" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.5</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Initial soil solid organic nitrogen" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>1000</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Initial direct runoff DON" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.5</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Initial soil water depth" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>300</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Soil water denitrification rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.90000000000000002</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Nitrogen fixation rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.001</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Nitrate uptake rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.80000000000000004</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Maximum nitrogen uptake rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>80</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Nitrate addition rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Ammonium nitrification rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.001</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Ammonium mineralisation rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>3.0000000000000001e-06</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Ammonium immobilisation rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.20000000000000001</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Ammonium addition rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Ammonium uptake rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.80000000000000004</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Growth season start day" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>20</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Growth period" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>260</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Fertiliser addition start day" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>1</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Fertiliser addition period" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>365</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Maximum soil moisture deficit" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>100</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Maximum temperature difference" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>4.5</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Stop denitrification at" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>9999</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Stop nitrification at" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>9999</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Stop mineralisation at" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>9999</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Stop immobilisation at" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>9999</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Minimum soil water flow" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>9999</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Minimum direct runoff flow" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>9999</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Denitrification response to a 10 degree change in temperature" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>3.5184099999999998</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Denitrification base temperature response" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Initial snow pack depth" units="">
                     <defaultValue>0</defaultValue>
-                    <currentValue>0</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <currentValue>100</currentValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Degree day factor for snowmelt" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>3</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Water equivalent factor" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.29999999999999999</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Snow depth / soil temperature factor" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>-0.025000000000000001</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Thermal conductivity of soil" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.29999999999999999</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Specific heat capacity due to freeze/thaw" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>6.5999999999999996</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="NO3 half-sat concentration" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.46594799999999997</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="NH4 half-sat concentration" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.050223799999999999</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Fixation response to a 10 degree change in temperature" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>2</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Fixation base temperature response" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>30</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Nitrification response to a 10 degree change in temperature" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>2</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Nitrification base temperature response" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>30</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Mineralisation response to a 10 degree change in temperature" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>2</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Mineralisation base temperature response" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>30</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Immobilisation response to a 10 degree change in temperature" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>2</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Immobilisation base temperature response" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>30</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="NO3 uptake response to a 10 degree change in temperature" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>2</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="NO3 uptake base temperature response" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>30</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="NH4 uptake response to a 10 degree change in temperature" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>2</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="NH4 uptake base temperature response" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>30</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="kSD" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.089999999999999997</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Soil water organic nitrogen &apos;n&apos;" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.90000000000000002</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Kf" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>1500</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Organic N addition rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Bulk porosity" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.33000000000000002</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Land cover specific rain multiplier" units="">
                     <defaultValue>0</defaultValue>
-                    <currentValue>1.1000000000000001</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <currentValue>1.3</currentValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Land cover specific snow multiplier" units="">
                     <defaultValue>0</defaultValue>
-                    <currentValue>1</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <currentValue>1.3</currentValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Snowmelt offset" units="">
                     <defaultValue>0</defaultValue>
-                    <currentValue>0</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <currentValue>2</currentValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Interception" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Plant growth temperature offset for PET" units="">
                     <defaultValue>0</defaultValue>
-                    <currentValue>-2</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <currentValue>1</currentValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Solar radiation scaling factor for PET" units="">
                     <defaultValue>0</defaultValue>
-                    <currentValue>50</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <currentValue>75</currentValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Drought runoff proportion" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.10000000000000001</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Evapotranspiration exponent" units="">
                     <defaultValue>0</defaultValue>
-                    <currentValue>0.050000000000000003</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <currentValue>1</currentValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="SMD offset" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Land cover specific threshold soil zone flow" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.185</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Land cover specific rainfall excess proportion" units="">
                     <defaultValue>0</defaultValue>
-                    <currentValue>0.80000000000000004</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <currentValue>1</currentValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Maximum infiltration rate" units="">
                     <defaultValue>0</defaultValue>
-                    <currentValue>15</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <currentValue>30</currentValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Infiltration temperature threshold" units="">
                     <defaultValue>0</defaultValue>
-                    <currentValue>-2</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <currentValue>0</currentValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Inert depth" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>177.69399999999999</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Direct runoff residence time" units="">
                     <defaultValue>0</defaultValue>
-                    <currentValue>3</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <currentValue>6</currentValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Soil water residence time" units="">
                     <defaultValue>0</defaultValue>
-                    <currentValue>6.7679999999999998</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <currentValue>14</currentValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Ratio of total to available water in soil" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>1.3999999999999999</currentValue>
-                    <minimumValue>3.9525251667299724e-323</minimumValue>
-                    <maximumValue>2.1219957909652723e-314</maximumValue>
+                    <minimumValue>3.584594121862836e-308</minimumValue>
+                    <maximumValue>3.098591660181618e-314</maximumValue>
                 </Parameter>
             </ParameterContainer>
             <ParameterContainer name="Mineral" count="76">
                 <Parameter name="Initial direct runoff" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.01</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Initial soil water flow" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.10000000000000001</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Initial direct runoff nitrate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.10000000000000001</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Initial soil water nitrate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.10000000000000001</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Initial direct runoff ammonium" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.10000000000000001</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Initial soil water ammonium" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.10000000000000001</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Initial soil water DON" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.5</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Initial soil solid organic nitrogen" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>500</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Initial direct runoff DON" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.5</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Initial soil water depth" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>300</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Soil water denitrification rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.20000000000000001</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Nitrogen fixation rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.001</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Nitrate uptake rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>1.5</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Maximum nitrogen uptake rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>90</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Nitrate addition rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Ammonium nitrification rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.0089999999999999993</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Ammonium mineralisation rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>1.9999999999999999e-06</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Ammonium immobilisation rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.20000000000000001</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Ammonium addition rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Ammonium uptake rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>1.5</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Growth season start day" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>20</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Growth period" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>260</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Fertiliser addition start day" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>1</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Fertiliser addition period" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>365</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Maximum soil moisture deficit" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>100</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Maximum temperature difference" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>4.5</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Stop denitrification at" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>9999</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Stop nitrification at" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>9999</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Stop mineralisation at" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>9999</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Stop immobilisation at" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>9999</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Minimum soil water flow" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>9999</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Minimum direct runoff flow" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>9999</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Denitrification response to a 10 degree change in temperature" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>5</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Denitrification base temperature response" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Initial snow pack depth" units="">
                     <defaultValue>0</defaultValue>
-                    <currentValue>0</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <currentValue>100</currentValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Degree day factor for snowmelt" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>3</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Water equivalent factor" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.29999999999999999</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Snow depth / soil temperature factor" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>-0.025000000000000001</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Thermal conductivity of soil" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.29999999999999999</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Specific heat capacity due to freeze/thaw" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>6.5999999999999996</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="NO3 half-sat concentration" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.66000000000000003</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="NH4 half-sat concentration" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.10000000000000001</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Fixation response to a 10 degree change in temperature" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>2</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Fixation base temperature response" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>30</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Nitrification response to a 10 degree change in temperature" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>2</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Nitrification base temperature response" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>30</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Mineralisation response to a 10 degree change in temperature" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>2</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Mineralisation base temperature response" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>30</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Immobilisation response to a 10 degree change in temperature" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>2</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Immobilisation base temperature response" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>30</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="NO3 uptake response to a 10 degree change in temperature" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>2</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="NO3 uptake base temperature response" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>30</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="NH4 uptake response to a 10 degree change in temperature" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>2</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="NH4 uptake base temperature response" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>30</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="kSD" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.089999999999999997</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Soil water organic nitrogen &apos;n&apos;" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.90000000000000002</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Kf" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>1500</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Organic N addition rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Bulk porosity" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.33000000000000002</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Land cover specific rain multiplier" units="">
                     <defaultValue>0</defaultValue>
-                    <currentValue>1.1000000000000001</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <currentValue>1.3</currentValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Land cover specific snow multiplier" units="">
                     <defaultValue>0</defaultValue>
-                    <currentValue>1</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <currentValue>1.3</currentValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Snowmelt offset" units="">
                     <defaultValue>0</defaultValue>
-                    <currentValue>0</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <currentValue>2</currentValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Interception" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Plant growth temperature offset for PET" units="">
                     <defaultValue>0</defaultValue>
-                    <currentValue>-2</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <currentValue>1</currentValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Solar radiation scaling factor for PET" units="">
                     <defaultValue>0</defaultValue>
-                    <currentValue>50</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <currentValue>75</currentValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Drought runoff proportion" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.10000000000000001</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Evapotranspiration exponent" units="">
                     <defaultValue>0</defaultValue>
-                    <currentValue>0.050000000000000003</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <currentValue>1</currentValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="SMD offset" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Land cover specific threshold soil zone flow" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.185</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Land cover specific rainfall excess proportion" units="">
                     <defaultValue>0</defaultValue>
-                    <currentValue>0.80000000000000004</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <currentValue>1</currentValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Maximum infiltration rate" units="">
                     <defaultValue>0</defaultValue>
-                    <currentValue>15</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <currentValue>30</currentValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Infiltration temperature threshold" units="">
                     <defaultValue>0</defaultValue>
-                    <currentValue>-2</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <currentValue>0</currentValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Inert depth" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>200</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Direct runoff residence time" units="">
                     <defaultValue>0</defaultValue>
-                    <currentValue>3</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <currentValue>6</currentValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Soil water residence time" units="">
                     <defaultValue>0</defaultValue>
-                    <currentValue>75</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <currentValue>125</currentValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Ratio of total to available water in soil" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>1.3999999999999999</currentValue>
-                    <minimumValue>5.3791798417145523e-297</minimumValue>
+                    <minimumValue>5.635769007826781e-297</minimumValue>
                     <maximumValue>2.1228327085253886e-314</maximumValue>
                 </Parameter>
             </ParameterContainer>
@@ -1070,8 +1070,8 @@
                 <Parameter name="Effluent on/off switch" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.1690555391580889e-297</minimumValue>
-                    <maximumValue>5.1947902834383261e-297</maximumValue>
+                    <minimumValue>5.0995273995795991e-297</minimumValue>
+                    <maximumValue>5.4471797632672903e-297</maximumValue>
                 </Parameter>
                 <Parameter name="Area" units="">
                     <defaultValue>0</defaultValue>
@@ -1081,7 +1081,7 @@
                 </Parameter>
                 <Parameter name="Base flow index" units="">
                     <defaultValue>0</defaultValue>
-                    <currentValue>0.5</currentValue>
+                    <currentValue>0.75</currentValue>
                     <minimumValue>3.5251386204514604e-317</minimumValue>
                     <maximumValue>8.3633653891681187e-318</maximumValue>
                 </Parameter>
@@ -1105,7 +1105,7 @@
                 </Parameter>
                 <Parameter name="Groundwater residence time" units="">
                     <defaultValue>0</defaultValue>
-                    <currentValue>22.267399999999999</currentValue>
+                    <currentValue>100</currentValue>
                     <minimumValue>3.5251386204514604e-317</minimumValue>
                     <maximumValue>8.3633653891681187e-318</maximumValue>
                 </Parameter>
@@ -1234,122 +1234,122 @@
                 <Parameter name="Reach length" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>47200</currentValue>
-                    <minimumValue>5.4145738644462869e-297</minimumValue>
-                    <maximumValue>2.1219990102970206e-314</maximumValue>
+                    <minimumValue>5.2637584636961667e-297</minimumValue>
+                    <maximumValue>2.1219978186106828e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Flow a" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>2.71</currentValue>
-                    <minimumValue>5.4145738644462869e-297</minimumValue>
-                    <maximumValue>2.1219990102970206e-314</maximumValue>
+                    <minimumValue>5.2637584636961667e-297</minimumValue>
+                    <maximumValue>2.1219978186106828e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Flow b" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.69999999999999996</currentValue>
-                    <minimumValue>5.4145738644462869e-297</minimumValue>
-                    <maximumValue>2.1219990102970206e-314</maximumValue>
+                    <minimumValue>5.2637584636961667e-297</minimumValue>
+                    <maximumValue>2.1219978186106828e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Reach denitrification rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.25</currentValue>
-                    <minimumValue>5.4145738644462869e-297</minimumValue>
-                    <maximumValue>2.1219990102970206e-314</maximumValue>
+                    <minimumValue>5.2637584636961667e-297</minimumValue>
+                    <maximumValue>2.1219978186106828e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Reach nitrification rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>3.5</currentValue>
-                    <minimumValue>5.4145738644462869e-297</minimumValue>
-                    <maximumValue>2.1219990102970206e-314</maximumValue>
+                    <minimumValue>5.2637584636961667e-297</minimumValue>
+                    <maximumValue>2.1219978186106828e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Effluent nitrate concentration" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.4145738644462869e-297</minimumValue>
-                    <maximumValue>2.1219990102970206e-314</maximumValue>
+                    <minimumValue>5.2637584636961667e-297</minimumValue>
+                    <maximumValue>2.1219978186106828e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Effluent ammonium concentration" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.4145738644462869e-297</minimumValue>
-                    <maximumValue>2.1219990102970206e-314</maximumValue>
+                    <minimumValue>5.2637584636961667e-297</minimumValue>
+                    <maximumValue>2.1219978186106828e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Effluent flow rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.4145738644462869e-297</minimumValue>
-                    <maximumValue>2.1219990102970206e-314</maximumValue>
+                    <minimumValue>5.2637584636961667e-297</minimumValue>
+                    <maximumValue>2.1219978186106828e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Abstraction flow rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.4145738644462869e-297</minimumValue>
-                    <maximumValue>2.1219990102970206e-314</maximumValue>
+                    <minimumValue>5.2637584636961667e-297</minimumValue>
+                    <maximumValue>2.1219978186106828e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Latitude" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>66</currentValue>
-                    <minimumValue>5.4145738644462869e-297</minimumValue>
-                    <maximumValue>2.1219990102970206e-314</maximumValue>
+                    <minimumValue>5.2637584636961667e-297</minimumValue>
+                    <maximumValue>2.1219978186106828e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Longitude" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.4145738644462869e-297</minimumValue>
-                    <maximumValue>2.1219990102970206e-314</maximumValue>
+                    <minimumValue>5.2637584636961667e-297</minimumValue>
+                    <maximumValue>2.1219978186106828e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Flow c" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.34899999999999998</currentValue>
-                    <minimumValue>5.4145738644462869e-297</minimumValue>
-                    <maximumValue>2.1219990102970206e-314</maximumValue>
+                    <minimumValue>5.2637584636961667e-297</minimumValue>
+                    <maximumValue>2.1219978186106828e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Flow f" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.371</currentValue>
-                    <minimumValue>5.4145738644462869e-297</minimumValue>
-                    <maximumValue>2.1219990102970206e-314</maximumValue>
+                    <minimumValue>5.2637584636961667e-297</minimumValue>
+                    <maximumValue>2.1219978186106828e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Width at sediment surface" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>20</currentValue>
-                    <minimumValue>5.4145738644462869e-297</minimumValue>
-                    <maximumValue>2.1219990102970206e-314</maximumValue>
+                    <minimumValue>5.2637584636961667e-297</minimumValue>
+                    <maximumValue>2.1219978186106828e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Manning&apos;s roughness" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.02</currentValue>
-                    <minimumValue>5.4145738644462869e-297</minimumValue>
-                    <maximumValue>2.1219990102970206e-314</maximumValue>
+                    <minimumValue>5.2637584636961667e-297</minimumValue>
+                    <maximumValue>2.1219978186106828e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Slope" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.00050000000000000001</currentValue>
-                    <minimumValue>5.4145738644462869e-297</minimumValue>
-                    <maximumValue>2.1219990102970206e-314</maximumValue>
+                    <minimumValue>5.2637584636961667e-297</minimumValue>
+                    <maximumValue>2.1219978186106828e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Reach mineralization rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.01</currentValue>
-                    <minimumValue>5.4145738644462869e-297</minimumValue>
-                    <maximumValue>2.1219990102970206e-314</maximumValue>
+                    <minimumValue>5.2637584636961667e-297</minimumValue>
+                    <maximumValue>2.1219978186106828e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Reach immobilization rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.10000000000000001</currentValue>
-                    <minimumValue>5.4145738644462869e-297</minimumValue>
-                    <maximumValue>2.1219990102970206e-314</maximumValue>
+                    <minimumValue>5.2637584636961667e-297</minimumValue>
+                    <maximumValue>2.1219978186106828e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Effluent Organic N concentration" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.4145738644462869e-297</minimumValue>
-                    <maximumValue>2.1219990102970206e-314</maximumValue>
+                    <minimumValue>5.2637584636961667e-297</minimumValue>
+                    <maximumValue>2.1219978186106828e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Effluent on/off switch" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.3946836847264734e-297</minimumValue>
-                    <maximumValue>5.0623135127917941e-297</maximumValue>
+                    <minimumValue>5.0995273995795991e-297</minimumValue>
+                    <maximumValue>5.4085659810517196e-297</maximumValue>
                 </Parameter>
                 <Parameter name="Area" units="">
                     <defaultValue>0</defaultValue>
@@ -1359,7 +1359,7 @@
                 </Parameter>
                 <Parameter name="Base flow index" units="">
                     <defaultValue>0</defaultValue>
-                    <currentValue>0.5</currentValue>
+                    <currentValue>0.75</currentValue>
                     <minimumValue>3.5251386204514604e-317</minimumValue>
                     <maximumValue>8.3633653891681187e-318</maximumValue>
                 </Parameter>
@@ -1383,7 +1383,7 @@
                 </Parameter>
                 <Parameter name="Groundwater residence time" units="">
                     <defaultValue>0</defaultValue>
-                    <currentValue>8.6737599999999997</currentValue>
+                    <currentValue>100</currentValue>
                     <minimumValue>3.5251386204514604e-317</minimumValue>
                     <maximumValue>8.3633653891681187e-318</maximumValue>
                 </Parameter>
@@ -1512,122 +1512,122 @@
                 <Parameter name="Reach length" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>11700</currentValue>
-                    <minimumValue>5.08096711821708e-297</minimumValue>
-                    <maximumValue>2.1220004509924439e-314</maximumValue>
+                    <minimumValue>5.4122523711952601e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Flow a" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>2.71</currentValue>
-                    <minimumValue>5.08096711821708e-297</minimumValue>
-                    <maximumValue>2.1220004509924439e-314</maximumValue>
+                    <minimumValue>5.4122523711952601e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Flow b" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.69999999999999996</currentValue>
-                    <minimumValue>5.08096711821708e-297</minimumValue>
-                    <maximumValue>2.1220004509924439e-314</maximumValue>
+                    <minimumValue>5.4122523711952601e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Reach denitrification rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.25</currentValue>
-                    <minimumValue>5.08096711821708e-297</minimumValue>
-                    <maximumValue>2.1220004509924439e-314</maximumValue>
+                    <minimumValue>5.4122523711952601e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Reach nitrification rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>3.5</currentValue>
-                    <minimumValue>5.08096711821708e-297</minimumValue>
-                    <maximumValue>2.1220004509924439e-314</maximumValue>
+                    <minimumValue>5.4122523711952601e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Effluent nitrate concentration" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.08096711821708e-297</minimumValue>
-                    <maximumValue>2.1220004509924439e-314</maximumValue>
+                    <minimumValue>5.4122523711952601e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Effluent ammonium concentration" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.08096711821708e-297</minimumValue>
-                    <maximumValue>2.1220004509924439e-314</maximumValue>
+                    <minimumValue>5.4122523711952601e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Effluent flow rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.08096711821708e-297</minimumValue>
-                    <maximumValue>2.1220004509924439e-314</maximumValue>
+                    <minimumValue>5.4122523711952601e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Abstraction flow rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.08096711821708e-297</minimumValue>
-                    <maximumValue>2.1220004509924439e-314</maximumValue>
+                    <minimumValue>5.4122523711952601e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Latitude" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>66</currentValue>
-                    <minimumValue>5.08096711821708e-297</minimumValue>
-                    <maximumValue>2.1220004509924439e-314</maximumValue>
+                    <minimumValue>5.4122523711952601e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Longitude" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.08096711821708e-297</minimumValue>
-                    <maximumValue>2.1220004509924439e-314</maximumValue>
+                    <minimumValue>5.4122523711952601e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Flow c" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.34899999999999998</currentValue>
-                    <minimumValue>5.08096711821708e-297</minimumValue>
-                    <maximumValue>2.1220004509924439e-314</maximumValue>
+                    <minimumValue>5.4122523711952601e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Flow f" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.371</currentValue>
-                    <minimumValue>5.08096711821708e-297</minimumValue>
-                    <maximumValue>2.1220004509924439e-314</maximumValue>
+                    <minimumValue>5.4122523711952601e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Width at sediment surface" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>20</currentValue>
-                    <minimumValue>5.08096711821708e-297</minimumValue>
-                    <maximumValue>2.1220004509924439e-314</maximumValue>
+                    <minimumValue>5.4122523711952601e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Manning&apos;s roughness" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.02</currentValue>
-                    <minimumValue>5.08096711821708e-297</minimumValue>
-                    <maximumValue>2.1220004509924439e-314</maximumValue>
+                    <minimumValue>5.4122523711952601e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Slope" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.00050000000000000001</currentValue>
-                    <minimumValue>5.08096711821708e-297</minimumValue>
-                    <maximumValue>2.1220004509924439e-314</maximumValue>
+                    <minimumValue>5.4122523711952601e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Reach mineralization rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.01</currentValue>
-                    <minimumValue>5.08096711821708e-297</minimumValue>
-                    <maximumValue>2.1220004509924439e-314</maximumValue>
+                    <minimumValue>5.4122523711952601e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Reach immobilization rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.10000000000000001</currentValue>
-                    <minimumValue>5.08096711821708e-297</minimumValue>
-                    <maximumValue>2.1220004509924439e-314</maximumValue>
+                    <minimumValue>5.4122523711952601e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Effluent Organic N concentration" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.08096711821708e-297</minimumValue>
-                    <maximumValue>2.1220004509924439e-314</maximumValue>
+                    <minimumValue>5.4122523711952601e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Effluent on/off switch" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.4005399139325811e-297</minimumValue>
-                    <maximumValue>5.0473929606909739e-297</maximumValue>
+                    <minimumValue>5.0997373838937624e-297</minimumValue>
+                    <maximumValue>5.2264979148769729e-297</maximumValue>
                 </Parameter>
                 <Parameter name="Area" units="">
                     <defaultValue>0</defaultValue>
@@ -1637,7 +1637,7 @@
                 </Parameter>
                 <Parameter name="Base flow index" units="">
                     <defaultValue>0</defaultValue>
-                    <currentValue>0.5</currentValue>
+                    <currentValue>0.75</currentValue>
                     <minimumValue>3.5251386204514604e-317</minimumValue>
                     <maximumValue>8.3633653891681187e-318</maximumValue>
                 </Parameter>
@@ -1661,7 +1661,7 @@
                 </Parameter>
                 <Parameter name="Groundwater residence time" units="">
                     <defaultValue>0</defaultValue>
-                    <currentValue>18.866099999999999</currentValue>
+                    <currentValue>100</currentValue>
                     <minimumValue>3.5251386204514604e-317</minimumValue>
                     <maximumValue>8.3633653891681187e-318</maximumValue>
                 </Parameter>
@@ -1790,122 +1790,122 @@
                 <Parameter name="Reach length" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>38500</currentValue>
-                    <minimumValue>5.0476262754460525e-297</minimumValue>
-                    <maximumValue>2.1219958028228478e-314</maximumValue>
+                    <minimumValue>5.1988033158483426e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Flow a" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>2.71</currentValue>
-                    <minimumValue>5.0476262754460525e-297</minimumValue>
-                    <maximumValue>2.1219958028228478e-314</maximumValue>
+                    <minimumValue>5.1988033158483426e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Flow b" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.69999999999999996</currentValue>
-                    <minimumValue>5.0476262754460525e-297</minimumValue>
-                    <maximumValue>2.1219958028228478e-314</maximumValue>
+                    <minimumValue>5.1988033158483426e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Reach denitrification rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.25</currentValue>
-                    <minimumValue>5.0476262754460525e-297</minimumValue>
-                    <maximumValue>2.1219958028228478e-314</maximumValue>
+                    <minimumValue>5.1988033158483426e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Reach nitrification rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>3.5</currentValue>
-                    <minimumValue>5.0476262754460525e-297</minimumValue>
-                    <maximumValue>2.1219958028228478e-314</maximumValue>
+                    <minimumValue>5.1988033158483426e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Effluent nitrate concentration" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.0476262754460525e-297</minimumValue>
-                    <maximumValue>2.1219958028228478e-314</maximumValue>
+                    <minimumValue>5.1988033158483426e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Effluent ammonium concentration" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.0476262754460525e-297</minimumValue>
-                    <maximumValue>2.1219958028228478e-314</maximumValue>
+                    <minimumValue>5.1988033158483426e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Effluent flow rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.0476262754460525e-297</minimumValue>
-                    <maximumValue>2.1219958028228478e-314</maximumValue>
+                    <minimumValue>5.1988033158483426e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Abstraction flow rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.0476262754460525e-297</minimumValue>
-                    <maximumValue>2.1219958028228478e-314</maximumValue>
+                    <minimumValue>5.1988033158483426e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Latitude" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>66</currentValue>
-                    <minimumValue>5.0476262754460525e-297</minimumValue>
-                    <maximumValue>2.1219958028228478e-314</maximumValue>
+                    <minimumValue>5.1988033158483426e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Longitude" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.0476262754460525e-297</minimumValue>
-                    <maximumValue>2.1219958028228478e-314</maximumValue>
+                    <minimumValue>5.1988033158483426e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Flow c" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.34899999999999998</currentValue>
-                    <minimumValue>5.0476262754460525e-297</minimumValue>
-                    <maximumValue>2.1219958028228478e-314</maximumValue>
+                    <minimumValue>5.1988033158483426e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Flow f" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.371</currentValue>
-                    <minimumValue>5.0476262754460525e-297</minimumValue>
-                    <maximumValue>2.1219958028228478e-314</maximumValue>
+                    <minimumValue>5.1988033158483426e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Width at sediment surface" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>20</currentValue>
-                    <minimumValue>5.0476262754460525e-297</minimumValue>
-                    <maximumValue>2.1219958028228478e-314</maximumValue>
+                    <minimumValue>5.1988033158483426e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Manning&apos;s roughness" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.02</currentValue>
-                    <minimumValue>5.0476262754460525e-297</minimumValue>
-                    <maximumValue>2.1219958028228478e-314</maximumValue>
+                    <minimumValue>5.1988033158483426e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Slope" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.00050000000000000001</currentValue>
-                    <minimumValue>5.0476262754460525e-297</minimumValue>
-                    <maximumValue>2.1219958028228478e-314</maximumValue>
+                    <minimumValue>5.1988033158483426e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Reach mineralization rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.01</currentValue>
-                    <minimumValue>5.0476262754460525e-297</minimumValue>
-                    <maximumValue>2.1219958028228478e-314</maximumValue>
+                    <minimumValue>5.1988033158483426e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Reach immobilization rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.10000000000000001</currentValue>
-                    <minimumValue>5.0476262754460525e-297</minimumValue>
-                    <maximumValue>2.1219958028228478e-314</maximumValue>
+                    <minimumValue>5.1988033158483426e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Effluent Organic N concentration" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.0476262754460525e-297</minimumValue>
-                    <maximumValue>2.1219958028228478e-314</maximumValue>
+                    <minimumValue>5.1988033158483426e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Effluent on/off switch" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.1862275897385482e-297</minimumValue>
-                    <maximumValue>4.5496484755575134e-297</maximumValue>
+                    <minimumValue>5.0997373838937624e-297</minimumValue>
+                    <maximumValue>4.6797924496212603e-292</maximumValue>
                 </Parameter>
                 <Parameter name="Area" units="">
                     <defaultValue>0</defaultValue>
@@ -1915,7 +1915,7 @@
                 </Parameter>
                 <Parameter name="Base flow index" units="">
                     <defaultValue>0</defaultValue>
-                    <currentValue>0.5</currentValue>
+                    <currentValue>0.75</currentValue>
                     <minimumValue>3.5251386204514604e-317</minimumValue>
                     <maximumValue>8.3633653891681187e-318</maximumValue>
                 </Parameter>
@@ -1939,7 +1939,7 @@
                 </Parameter>
                 <Parameter name="Groundwater residence time" units="">
                     <defaultValue>0</defaultValue>
-                    <currentValue>7.6237300000000001</currentValue>
+                    <currentValue>100</currentValue>
                     <minimumValue>3.5251386204514604e-317</minimumValue>
                     <maximumValue>8.3633653891681187e-318</maximumValue>
                 </Parameter>
@@ -2068,122 +2068,122 @@
                 <Parameter name="Reach length" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>12700</currentValue>
-                    <minimumValue>4.5500567772410613e-297</minimumValue>
-                    <maximumValue>2.1219958028228478e-314</maximumValue>
+                    <minimumValue>5.4991742114636036e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Flow a" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>2.71</currentValue>
-                    <minimumValue>4.5500567772410613e-297</minimumValue>
-                    <maximumValue>2.1219958028228478e-314</maximumValue>
+                    <minimumValue>5.4991742114636036e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Flow b" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.69999999999999996</currentValue>
-                    <minimumValue>4.5500567772410613e-297</minimumValue>
-                    <maximumValue>2.1219958028228478e-314</maximumValue>
+                    <minimumValue>5.4991742114636036e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Reach denitrification rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.25</currentValue>
-                    <minimumValue>4.5500567772410613e-297</minimumValue>
-                    <maximumValue>2.1219958028228478e-314</maximumValue>
+                    <minimumValue>5.4991742114636036e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Reach nitrification rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>3.5</currentValue>
-                    <minimumValue>4.5500567772410613e-297</minimumValue>
-                    <maximumValue>2.1219958028228478e-314</maximumValue>
+                    <minimumValue>5.4991742114636036e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Effluent nitrate concentration" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>4.5500567772410613e-297</minimumValue>
-                    <maximumValue>2.1219958028228478e-314</maximumValue>
+                    <minimumValue>5.4991742114636036e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Effluent ammonium concentration" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>4.5500567772410613e-297</minimumValue>
-                    <maximumValue>2.1219958028228478e-314</maximumValue>
+                    <minimumValue>5.4991742114636036e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Effluent flow rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>4.5500567772410613e-297</minimumValue>
-                    <maximumValue>2.1219958028228478e-314</maximumValue>
+                    <minimumValue>5.4991742114636036e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Abstraction flow rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>4.5500567772410613e-297</minimumValue>
-                    <maximumValue>2.1219958028228478e-314</maximumValue>
+                    <minimumValue>5.4991742114636036e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Latitude" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>66</currentValue>
-                    <minimumValue>4.5500567772410613e-297</minimumValue>
-                    <maximumValue>2.1219958028228478e-314</maximumValue>
+                    <minimumValue>5.4991742114636036e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Longitude" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>4.5500567772410613e-297</minimumValue>
-                    <maximumValue>2.1219958028228478e-314</maximumValue>
+                    <minimumValue>5.4991742114636036e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Flow c" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.34899999999999998</currentValue>
-                    <minimumValue>4.5500567772410613e-297</minimumValue>
-                    <maximumValue>2.1219958028228478e-314</maximumValue>
+                    <minimumValue>5.4991742114636036e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Flow f" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.371</currentValue>
-                    <minimumValue>4.5500567772410613e-297</minimumValue>
-                    <maximumValue>2.1219958028228478e-314</maximumValue>
+                    <minimumValue>5.4991742114636036e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Width at sediment surface" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>100</currentValue>
-                    <minimumValue>4.5500567772410613e-297</minimumValue>
-                    <maximumValue>2.1219958028228478e-314</maximumValue>
+                    <minimumValue>5.4991742114636036e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Manning&apos;s roughness" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.02</currentValue>
-                    <minimumValue>4.5500567772410613e-297</minimumValue>
-                    <maximumValue>2.1219958028228478e-314</maximumValue>
+                    <minimumValue>5.4991742114636036e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Slope" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.00050000000000000001</currentValue>
-                    <minimumValue>4.5500567772410613e-297</minimumValue>
-                    <maximumValue>2.1219958028228478e-314</maximumValue>
+                    <minimumValue>5.4991742114636036e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Reach mineralization rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.01</currentValue>
-                    <minimumValue>4.5500567772410613e-297</minimumValue>
-                    <maximumValue>2.1219958028228478e-314</maximumValue>
+                    <minimumValue>5.4991742114636036e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Reach immobilization rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.10000000000000001</currentValue>
-                    <minimumValue>4.5500567772410613e-297</minimumValue>
-                    <maximumValue>2.1219958028228478e-314</maximumValue>
+                    <minimumValue>5.4991742114636036e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Effluent Organic N concentration" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>4.5500567772410613e-297</minimumValue>
-                    <maximumValue>2.1219958028228478e-314</maximumValue>
+                    <minimumValue>5.4991742114636036e-297</minimumValue>
+                    <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Effluent on/off switch" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.1862275897385482e-297</minimumValue>
-                    <maximumValue>5.3854560406985337e-297</maximumValue>
+                    <minimumValue>5.0999473682079256e-297</minimumValue>
+                    <maximumValue>5.6248848220255345e-297</maximumValue>
                 </Parameter>
                 <Parameter name="Area" units="">
                     <defaultValue>0</defaultValue>
@@ -2193,7 +2193,7 @@
                 </Parameter>
                 <Parameter name="Base flow index" units="">
                     <defaultValue>0</defaultValue>
-                    <currentValue>0.5</currentValue>
+                    <currentValue>0.75</currentValue>
                     <minimumValue>3.5251386204514604e-317</minimumValue>
                     <maximumValue>8.3633653891681187e-318</maximumValue>
                 </Parameter>
@@ -2217,7 +2217,7 @@
                 </Parameter>
                 <Parameter name="Groundwater residence time" units="">
                     <defaultValue>0</defaultValue>
-                    <currentValue>7.68851</currentValue>
+                    <currentValue>100</currentValue>
                     <minimumValue>3.5251386204514604e-317</minimumValue>
                     <maximumValue>8.3633653891681187e-318</maximumValue>
                 </Parameter>
@@ -2346,122 +2346,122 @@
                 <Parameter name="Reach length" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>28100</currentValue>
-                    <minimumValue>5.2401118967623414e-297</minimumValue>
+                    <minimumValue>5.3301251727669768e-297</minimumValue>
                     <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Flow a" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>2.71</currentValue>
-                    <minimumValue>5.2401118967623414e-297</minimumValue>
+                    <minimumValue>5.3301251727669768e-297</minimumValue>
                     <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Flow b" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.69999999999999996</currentValue>
-                    <minimumValue>5.2401118967623414e-297</minimumValue>
+                    <minimumValue>5.3301251727669768e-297</minimumValue>
                     <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Reach denitrification rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.25</currentValue>
-                    <minimumValue>5.2401118967623414e-297</minimumValue>
+                    <minimumValue>5.3301251727669768e-297</minimumValue>
                     <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Reach nitrification rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>3.5</currentValue>
-                    <minimumValue>5.2401118967623414e-297</minimumValue>
+                    <minimumValue>5.3301251727669768e-297</minimumValue>
                     <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Effluent nitrate concentration" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.2401118967623414e-297</minimumValue>
+                    <minimumValue>5.3301251727669768e-297</minimumValue>
                     <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Effluent ammonium concentration" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.2401118967623414e-297</minimumValue>
+                    <minimumValue>5.3301251727669768e-297</minimumValue>
                     <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Effluent flow rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.2401118967623414e-297</minimumValue>
+                    <minimumValue>5.3301251727669768e-297</minimumValue>
                     <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Abstraction flow rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.2401118967623414e-297</minimumValue>
+                    <minimumValue>5.3301251727669768e-297</minimumValue>
                     <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Latitude" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>66</currentValue>
-                    <minimumValue>5.2401118967623414e-297</minimumValue>
+                    <minimumValue>5.3301251727669768e-297</minimumValue>
                     <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Longitude" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.2401118967623414e-297</minimumValue>
+                    <minimumValue>5.3301251727669768e-297</minimumValue>
                     <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Flow c" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.34899999999999998</currentValue>
-                    <minimumValue>5.2401118967623414e-297</minimumValue>
+                    <minimumValue>5.3301251727669768e-297</minimumValue>
                     <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Flow f" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.371</currentValue>
-                    <minimumValue>5.2401118967623414e-297</minimumValue>
+                    <minimumValue>5.3301251727669768e-297</minimumValue>
                     <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Width at sediment surface" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>50</currentValue>
-                    <minimumValue>5.2401118967623414e-297</minimumValue>
+                    <minimumValue>5.3301251727669768e-297</minimumValue>
                     <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Manning&apos;s roughness" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.02</currentValue>
-                    <minimumValue>5.2401118967623414e-297</minimumValue>
+                    <minimumValue>5.3301251727669768e-297</minimumValue>
                     <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Slope" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.00050000000000000001</currentValue>
-                    <minimumValue>5.2401118967623414e-297</minimumValue>
+                    <minimumValue>5.3301251727669768e-297</minimumValue>
                     <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Reach mineralization rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.01</currentValue>
-                    <minimumValue>5.2401118967623414e-297</minimumValue>
+                    <minimumValue>5.3301251727669768e-297</minimumValue>
                     <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Reach immobilization rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.10000000000000001</currentValue>
-                    <minimumValue>5.2401118967623414e-297</minimumValue>
+                    <minimumValue>5.3301251727669768e-297</minimumValue>
                     <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Effluent Organic N concentration" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.2401118967623414e-297</minimumValue>
+                    <minimumValue>5.3301251727669768e-297</minimumValue>
                     <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Effluent on/off switch" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.1862275897385482e-297</minimumValue>
-                    <maximumValue>5.254997452627015e-297</maximumValue>
+                    <minimumValue>5.6479480991977844e-297</minimumValue>
+                    <maximumValue>4.9410709029529947e-297</maximumValue>
                 </Parameter>
                 <Parameter name="Area" units="">
                     <defaultValue>0</defaultValue>
@@ -2471,7 +2471,7 @@
                 </Parameter>
                 <Parameter name="Base flow index" units="">
                     <defaultValue>0</defaultValue>
-                    <currentValue>0.5</currentValue>
+                    <currentValue>0.75</currentValue>
                     <minimumValue>3.5251386204514604e-317</minimumValue>
                     <maximumValue>8.3633653891681187e-318</maximumValue>
                 </Parameter>
@@ -2495,7 +2495,7 @@
                 </Parameter>
                 <Parameter name="Groundwater residence time" units="">
                     <defaultValue>0</defaultValue>
-                    <currentValue>30.028600000000001</currentValue>
+                    <currentValue>100</currentValue>
                     <minimumValue>3.5251386204514604e-317</minimumValue>
                     <maximumValue>8.3633653891681187e-318</maximumValue>
                 </Parameter>
@@ -2624,122 +2624,122 @@
                 <Parameter name="Reach length" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>7400</currentValue>
-                    <minimumValue>5.4093709197731314e-297</minimumValue>
+                    <minimumValue>8.7472699119165182e-297</minimumValue>
                     <maximumValue>2.1219958028228478e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Flow a" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>2.71</currentValue>
-                    <minimumValue>5.4093709197731314e-297</minimumValue>
+                    <minimumValue>8.7472699119165182e-297</minimumValue>
                     <maximumValue>2.1219958028228478e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Flow b" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.69999999999999996</currentValue>
-                    <minimumValue>5.4093709197731314e-297</minimumValue>
+                    <minimumValue>8.7472699119165182e-297</minimumValue>
                     <maximumValue>2.1219958028228478e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Reach denitrification rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.25</currentValue>
-                    <minimumValue>5.4093709197731314e-297</minimumValue>
+                    <minimumValue>8.7472699119165182e-297</minimumValue>
                     <maximumValue>2.1219958028228478e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Reach nitrification rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>3.5</currentValue>
-                    <minimumValue>5.4093709197731314e-297</minimumValue>
+                    <minimumValue>8.7472699119165182e-297</minimumValue>
                     <maximumValue>2.1219958028228478e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Effluent nitrate concentration" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.4093709197731314e-297</minimumValue>
+                    <minimumValue>8.7472699119165182e-297</minimumValue>
                     <maximumValue>2.1219958028228478e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Effluent ammonium concentration" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.4093709197731314e-297</minimumValue>
+                    <minimumValue>8.7472699119165182e-297</minimumValue>
                     <maximumValue>2.1219958028228478e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Effluent flow rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.4093709197731314e-297</minimumValue>
+                    <minimumValue>8.7472699119165182e-297</minimumValue>
                     <maximumValue>2.1219958028228478e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Abstraction flow rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.4093709197731314e-297</minimumValue>
+                    <minimumValue>8.7472699119165182e-297</minimumValue>
                     <maximumValue>2.1219958028228478e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Latitude" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>66</currentValue>
-                    <minimumValue>5.4093709197731314e-297</minimumValue>
+                    <minimumValue>8.7472699119165182e-297</minimumValue>
                     <maximumValue>2.1219958028228478e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Longitude" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.4093709197731314e-297</minimumValue>
+                    <minimumValue>8.7472699119165182e-297</minimumValue>
                     <maximumValue>2.1219958028228478e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Flow c" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.34899999999999998</currentValue>
-                    <minimumValue>5.4093709197731314e-297</minimumValue>
+                    <minimumValue>8.7472699119165182e-297</minimumValue>
                     <maximumValue>2.1219958028228478e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Flow f" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.371</currentValue>
-                    <minimumValue>5.4093709197731314e-297</minimumValue>
+                    <minimumValue>8.7472699119165182e-297</minimumValue>
                     <maximumValue>2.1219958028228478e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Width at sediment surface" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>100</currentValue>
-                    <minimumValue>5.4093709197731314e-297</minimumValue>
+                    <minimumValue>8.7472699119165182e-297</minimumValue>
                     <maximumValue>2.1219958028228478e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Manning&apos;s roughness" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.02</currentValue>
-                    <minimumValue>5.4093709197731314e-297</minimumValue>
+                    <minimumValue>8.7472699119165182e-297</minimumValue>
                     <maximumValue>2.1219958028228478e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Slope" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.00050000000000000001</currentValue>
-                    <minimumValue>5.4093709197731314e-297</minimumValue>
+                    <minimumValue>8.7472699119165182e-297</minimumValue>
                     <maximumValue>2.1219958028228478e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Reach mineralization rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.01</currentValue>
-                    <minimumValue>5.4093709197731314e-297</minimumValue>
+                    <minimumValue>8.7472699119165182e-297</minimumValue>
                     <maximumValue>2.1219958028228478e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Reach immobilization rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.10000000000000001</currentValue>
-                    <minimumValue>5.4093709197731314e-297</minimumValue>
+                    <minimumValue>8.7472699119165182e-297</minimumValue>
                     <maximumValue>2.1219958028228478e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Effluent Organic N concentration" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.4093709197731314e-297</minimumValue>
+                    <minimumValue>8.7472699119165182e-297</minimumValue>
                     <maximumValue>2.1219958028228478e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Effluent on/off switch" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.4826087833847079e-297</minimumValue>
-                    <maximumValue>4.4870848157321039e-297</maximumValue>
+                    <minimumValue>5.1002390130887078e-297</minimumValue>
+                    <maximumValue>5.0235364094429854e-297</maximumValue>
                 </Parameter>
                 <Parameter name="Area" units="">
                     <defaultValue>0</defaultValue>
@@ -2749,7 +2749,7 @@
                 </Parameter>
                 <Parameter name="Base flow index" units="">
                     <defaultValue>0</defaultValue>
-                    <currentValue>0.5</currentValue>
+                    <currentValue>0.75</currentValue>
                     <minimumValue>3.5251386204514604e-317</minimumValue>
                     <maximumValue>8.3633653891681187e-318</maximumValue>
                 </Parameter>
@@ -2773,7 +2773,7 @@
                 </Parameter>
                 <Parameter name="Groundwater residence time" units="">
                     <defaultValue>0</defaultValue>
-                    <currentValue>7.8819999999999997</currentValue>
+                    <currentValue>100</currentValue>
                     <minimumValue>3.5251386204514604e-317</minimumValue>
                     <maximumValue>8.3633653891681187e-318</maximumValue>
                 </Parameter>
@@ -2902,122 +2902,122 @@
                 <Parameter name="Reach length" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>2600</currentValue>
-                    <minimumValue>1.3123426948535858e-306</minimumValue>
-                    <maximumValue>2.1252501509797327e-314</maximumValue>
+                    <minimumValue>5.4210600465948842e-297</minimumValue>
+                    <maximumValue>2.1219958028228478e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Flow a" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>2.71</currentValue>
-                    <minimumValue>1.3123426948535858e-306</minimumValue>
-                    <maximumValue>2.1252501509797327e-314</maximumValue>
+                    <minimumValue>5.4210600465948842e-297</minimumValue>
+                    <maximumValue>2.1219958028228478e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Flow b" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.69999999999999996</currentValue>
-                    <minimumValue>1.3123426948535858e-306</minimumValue>
-                    <maximumValue>2.1252501509797327e-314</maximumValue>
+                    <minimumValue>5.4210600465948842e-297</minimumValue>
+                    <maximumValue>2.1219958028228478e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Reach denitrification rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.25</currentValue>
-                    <minimumValue>1.3123426948535858e-306</minimumValue>
-                    <maximumValue>2.1252501509797327e-314</maximumValue>
+                    <minimumValue>5.4210600465948842e-297</minimumValue>
+                    <maximumValue>2.1219958028228478e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Reach nitrification rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>3.5</currentValue>
-                    <minimumValue>1.3123426948535858e-306</minimumValue>
-                    <maximumValue>2.1252501509797327e-314</maximumValue>
+                    <minimumValue>5.4210600465948842e-297</minimumValue>
+                    <maximumValue>2.1219958028228478e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Effluent nitrate concentration" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>1.3123426948535858e-306</minimumValue>
-                    <maximumValue>2.1252501509797327e-314</maximumValue>
+                    <minimumValue>5.4210600465948842e-297</minimumValue>
+                    <maximumValue>2.1219958028228478e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Effluent ammonium concentration" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>1.3123426948535858e-306</minimumValue>
-                    <maximumValue>2.1252501509797327e-314</maximumValue>
+                    <minimumValue>5.4210600465948842e-297</minimumValue>
+                    <maximumValue>2.1219958028228478e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Effluent flow rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>1.3123426948535858e-306</minimumValue>
-                    <maximumValue>2.1252501509797327e-314</maximumValue>
+                    <minimumValue>5.4210600465948842e-297</minimumValue>
+                    <maximumValue>2.1219958028228478e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Abstraction flow rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>1.3123426948535858e-306</minimumValue>
-                    <maximumValue>2.1252501509797327e-314</maximumValue>
+                    <minimumValue>5.4210600465948842e-297</minimumValue>
+                    <maximumValue>2.1219958028228478e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Latitude" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>66</currentValue>
-                    <minimumValue>1.3123426948535858e-306</minimumValue>
-                    <maximumValue>2.1252501509797327e-314</maximumValue>
+                    <minimumValue>5.4210600465948842e-297</minimumValue>
+                    <maximumValue>2.1219958028228478e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Longitude" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>1.3123426948535858e-306</minimumValue>
-                    <maximumValue>2.1252501509797327e-314</maximumValue>
+                    <minimumValue>5.4210600465948842e-297</minimumValue>
+                    <maximumValue>2.1219958028228478e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Flow c" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.34899999999999998</currentValue>
-                    <minimumValue>1.3123426948535858e-306</minimumValue>
-                    <maximumValue>2.1252501509797327e-314</maximumValue>
+                    <minimumValue>5.4210600465948842e-297</minimumValue>
+                    <maximumValue>2.1219958028228478e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Flow f" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.371</currentValue>
-                    <minimumValue>1.3123426948535858e-306</minimumValue>
-                    <maximumValue>2.1252501509797327e-314</maximumValue>
+                    <minimumValue>5.4210600465948842e-297</minimumValue>
+                    <maximumValue>2.1219958028228478e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Width at sediment surface" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>100</currentValue>
-                    <minimumValue>1.3123426948535858e-306</minimumValue>
-                    <maximumValue>2.1252501509797327e-314</maximumValue>
+                    <minimumValue>5.4210600465948842e-297</minimumValue>
+                    <maximumValue>2.1219958028228478e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Manning&apos;s roughness" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.02</currentValue>
-                    <minimumValue>1.3123426948535858e-306</minimumValue>
-                    <maximumValue>2.1252501509797327e-314</maximumValue>
+                    <minimumValue>5.4210600465948842e-297</minimumValue>
+                    <maximumValue>2.1219958028228478e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Slope" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.00050000000000000001</currentValue>
-                    <minimumValue>1.3123426948535858e-306</minimumValue>
-                    <maximumValue>2.1252501509797327e-314</maximumValue>
+                    <minimumValue>5.4210600465948842e-297</minimumValue>
+                    <maximumValue>2.1219958028228478e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Reach mineralization rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.01</currentValue>
-                    <minimumValue>1.3123426948535858e-306</minimumValue>
-                    <maximumValue>2.1252501509797327e-314</maximumValue>
+                    <minimumValue>5.4210600465948842e-297</minimumValue>
+                    <maximumValue>2.1219958028228478e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Reach immobilization rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.10000000000000001</currentValue>
-                    <minimumValue>1.3123426948535858e-306</minimumValue>
-                    <maximumValue>2.1252501509797327e-314</maximumValue>
+                    <minimumValue>5.4210600465948842e-297</minimumValue>
+                    <maximumValue>2.1219958028228478e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Effluent Organic N concentration" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>1.3123426948535858e-306</minimumValue>
-                    <maximumValue>2.1252501509797327e-314</maximumValue>
+                    <minimumValue>5.4210600465948842e-297</minimumValue>
+                    <maximumValue>2.1219958028228478e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Effluent on/off switch" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.2888399245929771e-297</minimumValue>
-                    <maximumValue>5.2717378687839165e-297</maximumValue>
+                    <minimumValue>5.6479480991977844e-297</minimumValue>
+                    <maximumValue>8.7194586583842168e-297</maximumValue>
                 </Parameter>
                 <Parameter name="Area" units="">
                     <defaultValue>0</defaultValue>
@@ -3027,7 +3027,7 @@
                 </Parameter>
                 <Parameter name="Base flow index" units="">
                     <defaultValue>0</defaultValue>
-                    <currentValue>0.5</currentValue>
+                    <currentValue>0.75</currentValue>
                     <minimumValue>3.5251386204514604e-317</minimumValue>
                     <maximumValue>8.3633653891681187e-318</maximumValue>
                 </Parameter>
@@ -3051,7 +3051,7 @@
                 </Parameter>
                 <Parameter name="Groundwater residence time" units="">
                     <defaultValue>0</defaultValue>
-                    <currentValue>18.992000000000001</currentValue>
+                    <currentValue>100</currentValue>
                     <minimumValue>3.5251386204514604e-317</minimumValue>
                     <maximumValue>8.3633653891681187e-318</maximumValue>
                 </Parameter>
@@ -3180,122 +3180,122 @@
                 <Parameter name="Reach length" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>35900</currentValue>
-                    <minimumValue>5.491311465477714e-297</minimumValue>
+                    <minimumValue>4.665985044328148e-292</minimumValue>
                     <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Flow a" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>2.71</currentValue>
-                    <minimumValue>5.491311465477714e-297</minimumValue>
+                    <minimumValue>4.665985044328148e-292</minimumValue>
                     <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Flow b" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.69999999999999996</currentValue>
-                    <minimumValue>5.491311465477714e-297</minimumValue>
+                    <minimumValue>4.665985044328148e-292</minimumValue>
                     <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Reach denitrification rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.25</currentValue>
-                    <minimumValue>5.491311465477714e-297</minimumValue>
+                    <minimumValue>4.665985044328148e-292</minimumValue>
                     <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Reach nitrification rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>3.5</currentValue>
-                    <minimumValue>5.491311465477714e-297</minimumValue>
+                    <minimumValue>4.665985044328148e-292</minimumValue>
                     <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Effluent nitrate concentration" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.491311465477714e-297</minimumValue>
+                    <minimumValue>4.665985044328148e-292</minimumValue>
                     <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Effluent ammonium concentration" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.491311465477714e-297</minimumValue>
+                    <minimumValue>4.665985044328148e-292</minimumValue>
                     <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Effluent flow rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.491311465477714e-297</minimumValue>
+                    <minimumValue>4.665985044328148e-292</minimumValue>
                     <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Abstraction flow rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.491311465477714e-297</minimumValue>
+                    <minimumValue>4.665985044328148e-292</minimumValue>
                     <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Latitude" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>66</currentValue>
-                    <minimumValue>5.491311465477714e-297</minimumValue>
+                    <minimumValue>4.665985044328148e-292</minimumValue>
                     <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Longitude" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.491311465477714e-297</minimumValue>
+                    <minimumValue>4.665985044328148e-292</minimumValue>
                     <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Flow c" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.34899999999999998</currentValue>
-                    <minimumValue>5.491311465477714e-297</minimumValue>
+                    <minimumValue>4.665985044328148e-292</minimumValue>
                     <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Flow f" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.371</currentValue>
-                    <minimumValue>5.491311465477714e-297</minimumValue>
+                    <minimumValue>4.665985044328148e-292</minimumValue>
                     <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Width at sediment surface" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>100</currentValue>
-                    <minimumValue>5.491311465477714e-297</minimumValue>
+                    <minimumValue>4.665985044328148e-292</minimumValue>
                     <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Manning&apos;s roughness" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.02</currentValue>
-                    <minimumValue>5.491311465477714e-297</minimumValue>
+                    <minimumValue>4.665985044328148e-292</minimumValue>
                     <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Slope" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.00050000000000000001</currentValue>
-                    <minimumValue>5.491311465477714e-297</minimumValue>
+                    <minimumValue>4.665985044328148e-292</minimumValue>
                     <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Reach mineralization rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.01</currentValue>
-                    <minimumValue>5.491311465477714e-297</minimumValue>
+                    <minimumValue>4.665985044328148e-292</minimumValue>
                     <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Reach immobilization rate" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0.10000000000000001</currentValue>
-                    <minimumValue>5.491311465477714e-297</minimumValue>
+                    <minimumValue>4.665985044328148e-292</minimumValue>
                     <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Effluent Organic N concentration" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.491311465477714e-297</minimumValue>
+                    <minimumValue>4.665985044328148e-292</minimumValue>
                     <maximumValue>2.1219957968940601e-314</maximumValue>
                 </Parameter>
                 <Parameter name="Effluent on/off switch" units="">
                     <defaultValue>0</defaultValue>
                     <currentValue>0</currentValue>
-                    <minimumValue>5.3365180297032603e-297</minimumValue>
-                    <maximumValue>5.3227173939446548e-297</maximumValue>
+                    <minimumValue>5.1002390130887078e-297</minimumValue>
+                    <maximumValue>5.3105266379279565e-297</maximumValue>
                 </Parameter>
                 <Parameter name="Area" units="">
                     <defaultValue>0</defaultValue>
@@ -3305,7 +3305,7 @@
                 </Parameter>
                 <Parameter name="Base flow index" units="">
                     <defaultValue>0</defaultValue>
-                    <currentValue>0.5</currentValue>
+                    <currentValue>0.75</currentValue>
                     <minimumValue>3.5251386204514604e-317</minimumValue>
                     <maximumValue>8.3633653891681187e-318</maximumValue>
                 </Parameter>
@@ -3329,7 +3329,7 @@
                 </Parameter>
                 <Parameter name="Groundwater residence time" units="">
                     <defaultValue>0</defaultValue>
-                    <currentValue>23.574300000000001</currentValue>
+                    <currentValue>100</currentValue>
                     <minimumValue>3.5251386204514604e-317</minimumValue>
                     <maximumValue>8.3633653891681187e-318</maximumValue>
                 </Parameter>
